@@ -5,7 +5,9 @@ const happyHolidays = () => {
 };
 
 const happyHolidaysTo = (name) => {
-  return `Happy holidays, ${name}`;
+  return `Happy holidays, ${name}!`;
 };
 
-const 
+const happyHolidayTo = (holiday, name) => {
+  
+};
