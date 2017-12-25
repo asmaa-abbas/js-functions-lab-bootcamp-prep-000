@@ -1,8 +1,12 @@
 // write your code below!
 
-const happyHolidays = () => {
+function happyHolidays() {
   return `Happy holidays!`;
-};
+}
+
+// const happyHolidays = () => {
+//   return `Happy holidays!`;
+// };
 
 const happyHolidaysTo = (name) => {
   return `Happy holidays, ${name}!`;
