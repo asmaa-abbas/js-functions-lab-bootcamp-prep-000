@@ -24,6 +24,10 @@ function happyHolidayTo (holiday, name) {
 //   return `Happy ${holiday}, ${name}!`;
 // };
 
-const holidayCountdown = (holiday, numOfDays) => {
+function holidayCountdown (holiday, numOfDays) {
   return `It's ${days} days until ${holiday}`;
-};
+}
+
+// const holidayCountdown = (holiday, numOfDays) => {
+//   return `It's ${days} days until ${holiday}`;
+// };
