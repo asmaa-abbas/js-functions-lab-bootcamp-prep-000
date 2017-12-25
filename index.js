@@ -29,5 +29,5 @@ function holidayCountdown (holiday, numOfDays) {
 }
 
 // const holidayCountdown = (holiday, numOfDays) => {
-//   return `It's ${days} days until ${holiday}`;
+//   return `It's ${numOfDays} days until ${holiday}`;
 // };
